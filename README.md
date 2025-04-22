@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## GitHub Pages/Site:
-- https://math490.github.io/ecocash/
+- https://math490.github.io/projeto-empreendedorismo/
 
 ## Getting Started
 
